@@ -1,0 +1,15 @@
+For Gradle:
+implementation 'org.slf4j:slf4j-api:1.7.32'
+implementation 'ch.qos.logback:logback-classic:1.2.5'
+
+For Maven:
+<dependency>
+    <groupId>org.slf4j</groupId>
+    <artifactId>slf4j-api</artifactId>
+    <version>1.7.32</version>
+</dependency>
+<dependency>
+    <groupId>ch.qos.logback</groupId>
+    <artifactId>logback-classic</artifactId>
+    <version>1.2.5</version>
+</dependency>
